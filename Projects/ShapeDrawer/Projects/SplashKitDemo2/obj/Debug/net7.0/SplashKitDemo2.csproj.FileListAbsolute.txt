@@ -1,0 +1,14 @@
+/Users/sarthakpradhan/Desktop/COS20007/Projects/SplashKitDemo2/bin/Debug/net7.0/SplashKitDemo2
+/Users/sarthakpradhan/Desktop/COS20007/Projects/SplashKitDemo2/bin/Debug/net7.0/SplashKitDemo2.deps.json
+/Users/sarthakpradhan/Desktop/COS20007/Projects/SplashKitDemo2/bin/Debug/net7.0/SplashKitDemo2.runtimeconfig.json
+/Users/sarthakpradhan/Desktop/COS20007/Projects/SplashKitDemo2/bin/Debug/net7.0/SplashKitDemo2.dll
+/Users/sarthakpradhan/Desktop/COS20007/Projects/SplashKitDemo2/bin/Debug/net7.0/SplashKitDemo2.pdb
+/Users/sarthakpradhan/Desktop/COS20007/Projects/SplashKitDemo2/obj/Debug/net7.0/SplashKitDemo2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sarthakpradhan/Desktop/COS20007/Projects/SplashKitDemo2/obj/Debug/net7.0/SplashKitDemo2.AssemblyInfoInputs.cache
+/Users/sarthakpradhan/Desktop/COS20007/Projects/SplashKitDemo2/obj/Debug/net7.0/SplashKitDemo2.AssemblyInfo.cs
+/Users/sarthakpradhan/Desktop/COS20007/Projects/SplashKitDemo2/obj/Debug/net7.0/SplashKitDemo2.csproj.CoreCompileInputs.cache
+/Users/sarthakpradhan/Desktop/COS20007/Projects/SplashKitDemo2/obj/Debug/net7.0/SplashKitDemo2.dll
+/Users/sarthakpradhan/Desktop/COS20007/Projects/SplashKitDemo2/obj/Debug/net7.0/refint/SplashKitDemo2.dll
+/Users/sarthakpradhan/Desktop/COS20007/Projects/SplashKitDemo2/obj/Debug/net7.0/SplashKitDemo2.pdb
+/Users/sarthakpradhan/Desktop/COS20007/Projects/SplashKitDemo2/obj/Debug/net7.0/SplashKitDemo2.genruntimeconfig.cache
+/Users/sarthakpradhan/Desktop/COS20007/Projects/SplashKitDemo2/obj/Debug/net7.0/ref/SplashKitDemo2.dll
